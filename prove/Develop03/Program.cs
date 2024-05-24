@@ -1,6 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
-
+// Added an api that gets the script reference.
+// Should have an internet connection to fetch the scripture verses.
 
 
 class Program
