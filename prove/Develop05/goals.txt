@@ -1,0 +1,5 @@
+0
+1
+0
+SimpleGoal
+aaa|aaa|12|False
