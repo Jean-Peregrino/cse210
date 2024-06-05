@@ -4,7 +4,7 @@ public class Cycling : Activity
 {
    private double _speed;
 
-    // Constructor to initialize the cycling activity
+    // Constructor to initialize the cycling activity.
     public Cycling(DateTime activityDate, int activityLengthMinutes, double speed) : base(activityDate, activityLengthMinutes)
     {
         _speed = speed;

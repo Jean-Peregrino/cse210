@@ -4,7 +4,7 @@ public class Swimming : Activity
 {
     private int _laps;
 
-    // Constructor to initialize the swimming activity
+    // Constructor to initialize the swimming activity.
     public Swimming(DateTime activityDate, int activityLengthMinutes, int laps) : base(activityDate, activityLengthMinutes)
     {
         _laps = laps;

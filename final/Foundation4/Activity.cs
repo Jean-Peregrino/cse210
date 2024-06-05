@@ -5,7 +5,7 @@ public class Activity
 private DateTime _activityDate;
     protected int _activityLengthMinutes;
 
-    // Constructor to initialize the activity date and length
+    // Constructor to initialize the activity date and length.
     public Activity(DateTime activityDate, int activityLengthMinutes)
     {
         _activityDate = activityDate;

@@ -4,7 +4,7 @@ public class Running : Activity
 {
     private double _distance;
 
-    // Constructor to initialize the running activity
+    // Constructor to initialize the running activity.
     public Running(DateTime activityDate, int activityLengthMinutes, double distance) : base(activityDate, activityLengthMinutes)
     {
         _distance = distance;
