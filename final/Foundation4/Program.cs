@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create instances of activities with values in kilometers and kilometers per hour
+        // Create instances of activities with values in kilometers and kilometers per hour.
         var activities = new List<Activity>
         {
             new Running(DateTime.Parse("2024-06-04"), 20, 4.0), // Distance in kilometers
